@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\layout-sw550dp-large\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\debug\\layout-sw550dp-large-v13\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\layout-sw550dp-large\\umeng_socialize_oauth_dialog.xml"
+    }
+]

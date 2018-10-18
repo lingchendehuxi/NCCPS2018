@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_left_exit.xml",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_right_enter.xml",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_left_enter.xml",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_right_enter.xml",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_right_exit.xml",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_left_enter.xml",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_left_exit.xml",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\animator\\fragment_slide_right_exit.xml",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\animator\\fragment_slide_right_exit.xml"
+    }
+]

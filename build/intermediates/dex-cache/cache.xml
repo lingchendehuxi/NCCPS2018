@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\jpush-android-2.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0f26f97f6d6c7cb02247e1ec35034732f234badb">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.5_fa5bb7d48c6f6b7da1cfebf7daf22897c5ab79be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\umeng_social_net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1aa11c64ffb61549c2314a2eaf109eb26d34cd7b">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_94c94ee7e855e331f03e527628a65159800f106f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\bottom-navigation-bar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b234dd1b0a25c9277895d5f11c211c5f72e232bc">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\4\classes_4369febf5395ec2cfba9a216bd5e6bd71bec2b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\Library_SuperRecyclerView\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd049da464dfeeead483a3c85b8968b451117f19">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\4\classes_2c80e2684903919d404e41c9ec6a1a082ecbeb1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_11efa1bdf469fa9c0d1317c7c78b796f18a420f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\umeng_social_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2da3c1332d13d3e29069e2144dec29ef0608f1f">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_6a806a1e7837e2490be4d2a763dda119c825ad02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\umeng_social_tool.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1b54d64ceb6e0e720f54f48178d9f797c2133ebc">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_tool_f7546f694841f783e763802c1718adcbd68dbd86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\SocialSDK_Sina_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5866e1a5ca7a49ac28ee0bd9430346a137375b1c">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_Simplify_2dacd0a7e8ecb6a2aed3667a5c0382679f7fe165\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\SocialSDK_WeChat_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7d158ad96c9a17df4e5457a5e714bb4664ee4588">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeChat_Simplify_24eced35f4dceb4407cf285842bf26c6907c118b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fe22c135f19470d05b0816d5996c442ef67da3f">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_e78ce98a7ce7f62c9efbd6f46c3a4be4f38664da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\umeng_shareboard_widget.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caf9e4cc471f48ac1fa263b2c60f00f01c74b48f">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_shareboard_widget_736a0d969eede99100aeee039b6e8c5268d7e16f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_64153e3af749760292b0c4853e4f91cfe20612cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\libs\umeng_social_shareboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2e81bbda132904c2584f86e324fa7aecc04d9aa2">
+        <dex dex="D:\myCode\NCCPS2018\NCCPS2018\ConferenceBasic_NCCPS\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareboard_f76f40956ca6223b26b3fa31eab6befab5d4bc4b\classes.dex" />
+    </item>
+
+</items>

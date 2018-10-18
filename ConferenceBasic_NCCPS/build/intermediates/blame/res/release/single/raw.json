@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\data1.zip",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\data1.zip"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\country_code.db",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\country_code.db"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\fy.mp3",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\fy.mp3"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\country_code.db",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\country_code.db"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\fy.mp3",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\fy.mp3"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\raw\\data1.zip",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\raw\\data1.zip"
+    }
+]

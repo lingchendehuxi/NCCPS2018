@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\myCode\\NCCPS2018\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\androidTest\\NCCPS2018\\ConferenceBasic_NCCPS\\res\\drawable-ldpi\\vpi__tab_selected_focused_holo.9.png"
+    }
+]
