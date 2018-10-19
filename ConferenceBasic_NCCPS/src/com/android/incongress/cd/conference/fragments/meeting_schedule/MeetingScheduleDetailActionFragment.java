@@ -15,6 +15,7 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.widget.AbsoluteLayout;
 import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
@@ -275,7 +276,8 @@ public class MeetingScheduleDetailActionFragment extends BaseFragment {
                             detail.setRightListener(moreView);
                             action(detail, R.string.meeting_schedule_detail_title, moreView, false, false, false);
                             getActivity().setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-
+                            getActivity().getWindow().clearFlags(
+                                    WindowManager.LayoutParams.FLAG_FULLSCREEN);
                             return true;
                         } else {
                             return false;
@@ -427,8 +429,11 @@ public class MeetingScheduleDetailActionFragment extends BaseFragment {
     public void onHiddenChanged(boolean hidden) {
         super.onHiddenChanged(hidden);
         if(hidden){
+            getActivity().getWindow().clearFlags(
+                    WindowManager.LayoutParams.FLAG_FULLSCREEN);
             getActivity().setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         }else {
+            getActivity().getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
             getActivity().setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         }
     }

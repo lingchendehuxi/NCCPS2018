@@ -1,5 +1,6 @@
 package com.android.incongress.cd.conference.fragments.meeting_schedule;
 
+import android.content.pm.ActivityInfo;
 import android.graphics.drawable.BitmapDrawable;
 import android.media.AudioManager;
 import android.media.SoundPool;
@@ -302,4 +303,5 @@ public class SessionDetailViewPageFragment extends BaseFragment {
         super.onPause();
         MobclickAgent.onPageEnd(Constants.FRAGMENT_SESSIONDETAIL);
     }
+
 }

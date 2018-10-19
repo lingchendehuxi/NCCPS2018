@@ -5,6 +5,7 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.content.pm.ActivityInfo;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -20,6 +21,7 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.view.animation.AnimationUtils;
 import android.view.animation.LayoutAnimationController;
 import android.view.animation.ScaleAnimation;
@@ -843,7 +845,8 @@ public class NewDynamicHomeFragment extends BaseFragment implements View.OnClick
                         }
                         break;
                     case VENUEPICTURE:
-                        goVenuepicture();
+                        //goVenuepicture();
+                        goSchedulePreview();
                         break;
                     case SCHEDULE_PREVIEW:
                         goSchedulePreview();
@@ -871,7 +874,7 @@ public class NewDynamicHomeFragment extends BaseFragment implements View.OnClick
         }
 
         listFragment.setRightListener(view);
-        action(listFragment, title, view, false, false, false);
+        action(listFragment, title, null, false, false, false);
 
 
     }
@@ -999,7 +1002,10 @@ public class NewDynamicHomeFragment extends BaseFragment implements View.OnClick
         action(new NewMeetingInfoFragment(), "场馆图" , false, false, false);
     }
     private void goSchedulePreview(){
-        ((HomeActivity)getActivity()).setTitleEntry(false, false, false, null, null, false, false, false, false);
+        MeetingScheduleViewPageFragment scheduleFragment = new MeetingScheduleViewPageFragment();
+        HomeActivity activity = (HomeActivity) getActivity();
+        activity.addFragment(NewDynamicHomeFragment.this, scheduleFragment);
+        activity.setTitleEntry(false, false, false, null, null, false, false, false, false);
     }
 
     /**

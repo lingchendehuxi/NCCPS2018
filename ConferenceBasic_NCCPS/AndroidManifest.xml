@@ -98,7 +98,6 @@
             android:name="com.android.incongress.cd.conference.HomeActivity"
             android:launchMode="singleTask"
             android:configChanges="orientation|screenSize"
-            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light"
             android:windowSoftInputMode="adjustPan"></activity>
 
@@ -117,6 +116,8 @@
 
         <activity
             android:name="com.android.incongress.cd.conference.LoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
             android:theme="@style/splashTheme"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
 
